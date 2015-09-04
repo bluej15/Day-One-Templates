@@ -1,4 +1,15 @@
+dayone://post?entry=Sleep Log
 
+|Sleep Log||
+|:---|:---|
+|Summary|[prompt: Today's one word summary]|
+|How did I sleep?|[list: How did you sleep?|Great | Good | Okay | Poorly | Not at all]|
+|How long did I sleep for?|[prompt: How long did you sleep?]|
+|Did I dream?|[list: Did you dream?|Yes|No]|
+|Did I wake up during the night?|[list: Did you wake up?|Yes|No]|
+|Was Jackson there?|[list:Was Jackson in the room?|Yes|No|Partial]|
+|Other Thoughts|[prompt:Extra Thoughts?]|
+#Sleep
 
 
 dayone://post?entry=5-minute%20journal%20%23journal%20%23morning%0A%0A%2A%2AI%20am%20grateful%20for%2A%2A:[prompt:I%20am%20grateful%20for]%0A%0A%2A%2AWhat%20would%20make%20today%20great?%2A%2A:[prompt:What%20would%20make%20today%20great?]%0A%0A%2A%2ADaily%20affirmation%2A%2A:[prompt:Daily%20affirmation]
