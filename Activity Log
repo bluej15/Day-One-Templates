@@ -1,0 +1,15 @@
+dayone://post?entry=Daily Activity Log
+
+|Activity Log||
+|:---|:---|
+|Summary|[prompt: Today's one word summary]|
+|How did I sleep?|[list: How did you sleep?|Great | Good | Okay | Poorly | Not at all]|
+|How long did I sleep for?|[prompt: How long did you sleep?]|
+|Did I dream?|[list: Did you dream?|Yes|No]|
+|Did I wake up during the night?|[list: Did you wake up?|Yes|No]|
+|Was Jackson there?|[list:Was Jackson in the room?|Yes|No|Partial]|
+|Other Thoughts|[prompt:Extra Thoughts?]|
+#Sleep
+
+
+dayone://post?entry=%7C%20Daily%20Activity%20%7C%20%7C%0D%0A%7C%20---%20%7C%20---%20%7C%20---%20%7C%0D%0A%7C%20Type%20%7C%20[list:Activity Type|Cycling|Running|Walking|Swimming|Other]%20%7C%0D%0A%7C%20Distance%20%7C%20[prompt-num:How long was it?]Km%20%7C%0D%0A%7C%20Time%20%7C%20[prompt-num:How long did you do it for?]%20minutes%20%7C%0D%0A%7C%20Calories%20Burnt%20%7C%20[prompt-num:Amount of calories burnt?]Kcal%20%7C%0D%0A%7C%20URL%20%7C%20[ [list:URL Location|Strava|Garmin|] ]([prompt:URL Location])%20%7C
