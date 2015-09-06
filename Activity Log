@@ -7,5 +7,4 @@ dayone://post?entry=Daily Activity Log
 |Time|[prompt-num:How long did you do it for?]minutes|
 |Calories Burnt|[prompt-num:Amount of calories burnt?]Kcal|
 |URL [ [list:URL Location|Cyclemeter|Strava|] ]([prompt:URL Location])|
-
 #ActivityLog
