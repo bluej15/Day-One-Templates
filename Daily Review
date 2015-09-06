@@ -6,6 +6,7 @@ dayone://post?entry=Daily Review
 |Did I work?|[list: Did I work today?|Yes|No|Sick Day|Vacation Day|Holiday]|
 |Was I productive?|[list: Were you productive today?|Yess|No]|
 |Worked On|[prompt: What did you work on?]|
+|Read|[promt: What did you read today?]|
 |Did I relax?|[list: Did I relax today?|Yes|No]|
 |Work Out|[list: Did I workout today?|Yes|No]|
 |Satisfaction|[list: Am I happy with what I did today?|Yes|No]|
