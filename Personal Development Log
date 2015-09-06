@@ -1,0 +1,13 @@
+dayone://post?entry=Personal Development Log
+
+|Personal Development Log||
+|:---|:---|
+|Meditation|[list: Did I meditate today?|Yes|No]|
+|Affirmations|[list: Did I do my affirmations today?|Yes|No]|
+|Visualizations|[list: Did I visualize today?|Yes|No]|
+|Reading||[list: Did I read today?|Yes|No]|
+|Book|[prompt:What book did I read today?]|
+|Journal|[list: Did I journal today?|Yes|No]|
+|Movement|[list: Did I move today?|Yes|No]|
+|Notes|[prompt:Extra Thoughts?]|
+#PersonalDevelopment
