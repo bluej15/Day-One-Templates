@@ -1,6 +1,6 @@
 dayone://post?entry=[prompt:Title]
 
-|Book Log||
+|Book Log|
 |:---|:---|
 |Title|[prompt: Title]|
 |Author|[prompt: Author|
