@@ -1,10 +1,10 @@
 dayone://post?entry=[prompt:Title]
 
-|Book Log|
+|Book Log||
 |:---|:---|
 |Title|[prompt: Title]|
-|Author|[prompt: Author|
+|Author|[prompt: Author]|
 |Genere|[list:Genre|Fiction|Short Story Collection|Mystery|Non-Fiction|Science Fiction|Programming|PersonalDevelopment|Other]|
 |Rating|[list:Rating|★☆☆☆☆|★★☆☆☆|★★★☆☆|★★★★☆|★★★★★]|
 |Notes|[prompt:Notes]|
-#Book Log
+#BookLog
